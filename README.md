@@ -5,3 +5,4 @@
 * ### Undergraduate student majoring in Computer Science
 * ### Interests: Data Science, NLP based ML | DL
 * ### Live in Incheon, Korea
+* ### [My Blog (Korean)](https://blog.naver.com/l0641)
