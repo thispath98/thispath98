@@ -1,8 +1,4 @@
-[![thispath98's GitHub stats](https://github-readme-stats.vercel.app/api?username=thispath98)](https://github.com/thispath98/github-readme-stats)
-
-
----
+# 안녕하세요☺️
 * ### Undergraduate student majoring in Computer Science
 * ### Interests: Data Science, NLP based ML | DL
 * ### Live in Incheon, Korea
-* ### [My Blog (Korean)](https://blog.naver.com/l0641)
