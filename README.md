@@ -1,4 +1,3 @@
-# 안녕하세요☺️
-* ### Undergraduate student majoring in Computer Science
-* ### Interests: Natural Language Processing (NLP), Task Oriented System, Dialogue State Tracking, Machine Learning, Deep Learning
-* ### Live in Incheon, Korea
+## 👋 Hi, I'm Thispath.
+### I'm a Graduate student in AI Graduate School, GIST
+### Browse my website for more detailed information!
